@@ -1,0 +1,16 @@
+D:\NashTech\Line\Workshop\SimpleNetCore\SimpleNetCore\obj\Debug\netcoreapp2.0\SimpleNetCore.csprojResolveAssemblyReference.cache
+D:\NashTech\Line\Workshop\SimpleNetCore\SimpleNetCore\obj\Debug\netcoreapp2.0\SimpleNetCore.csproj.CoreCompileInputs.cache
+D:\NashTech\Line\Workshop\SimpleNetCore\SimpleNetCore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\NashTech\Line\Workshop\SimpleNetCore\SimpleNetCore\obj\Debug\netcoreapp2.0\SimpleNetCore.AssemblyInfoInputs.cache
+D:\NashTech\Line\Workshop\SimpleNetCore\SimpleNetCore\obj\Debug\netcoreapp2.0\SimpleNetCore.AssemblyInfo.cs
+D:\NashTech\Line\Workshop\SimpleNetCore\SimpleNetCore\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+D:\NashTech\Line\Workshop\SimpleNetCore\SimpleNetCore\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+D:\NashTech\Line\Workshop\SimpleNetCore\SimpleNetCore\bin\Debug\netcoreapp2.0\SimpleNetCore.deps.json
+D:\NashTech\Line\Workshop\SimpleNetCore\SimpleNetCore\bin\Debug\netcoreapp2.0\SimpleNetCore.runtimeconfig.json
+D:\NashTech\Line\Workshop\SimpleNetCore\SimpleNetCore\bin\Debug\netcoreapp2.0\SimpleNetCore.runtimeconfig.dev.json
+D:\NashTech\Line\Workshop\SimpleNetCore\SimpleNetCore\bin\Debug\netcoreapp2.0\SimpleNetCore.dll
+D:\NashTech\Line\Workshop\SimpleNetCore\SimpleNetCore\bin\Debug\netcoreapp2.0\SimpleNetCore.pdb
+D:\NashTech\Line\Workshop\SimpleNetCore\SimpleNetCore\bin\Debug\netcoreapp2.0\ConferenceDTO.dll
+D:\NashTech\Line\Workshop\SimpleNetCore\SimpleNetCore\bin\Debug\netcoreapp2.0\ConferenceDTO.pdb
+D:\NashTech\Line\Workshop\SimpleNetCore\SimpleNetCore\obj\Debug\netcoreapp2.0\SimpleNetCore.dll
+D:\NashTech\Line\Workshop\SimpleNetCore\SimpleNetCore\obj\Debug\netcoreapp2.0\SimpleNetCore.pdb
